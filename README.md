@@ -10,7 +10,9 @@ RBDMS Fundamentals: https://learntransactsql.vercel.app/concepts
 
 Database jargon: http://www.davidwills.us/cmis320/jargon.html
 
-Free Hosting Providers: fly.io
+Free Hosting Providers: 
+
+                        fly.io
 
                         fleek
                         
@@ -33,3 +35,5 @@ Free Hosting Providers: fly.io
                         hostman
                         
                         glitch
+                       
+XML overview: https://www.tutorialspoint.com/xml/xml_overview.htm
