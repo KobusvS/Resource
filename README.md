@@ -4,6 +4,8 @@ Flexbox guide: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 CSS Grid: https://www.instagram.com/p/CRD-45jsVnO/?utm_medium=copy_link
 
+CSS creating a tooltip: https://www.instagram.com/p/CRGLZoShVTw/?utm_medium=copy_link
+
 Database:
 
 RBDMS Fundamentals: https://learntransactsql.vercel.app/concepts
