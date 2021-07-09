@@ -6,6 +6,8 @@ CSS Grid: https://www.instagram.com/p/CRD-45jsVnO/?utm_medium=copy_link
 
 CSS creating a tooltip: https://www.instagram.com/p/CRGLZoShVTw/?utm_medium=copy_link
 
+CSS 3 ways to center a div: https://www.instagram.com/p/CREdGDsqSIV/?utm_medium=copy_link
+
 Database:
 
 RBDMS Fundamentals: https://learntransactsql.vercel.app/concepts
