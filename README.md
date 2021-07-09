@@ -8,6 +8,10 @@ CSS creating a tooltip: https://www.instagram.com/p/CRGLZoShVTw/?utm_medium=copy
 
 CSS 3 ways to center a div: https://www.instagram.com/p/CREdGDsqSIV/?utm_medium=copy_link
 
+CSS Parallax effect: https://www.instagram.com/p/CREdGDsqSIV/?utm_medium=copy_link
+
+CSS code generators: https://www.instagram.com/p/CQ_JMcXKaom/?utm_medium=copy_link
+
 Database:
 
 RBDMS Fundamentals: https://learntransactsql.vercel.app/concepts
